@@ -1,0 +1,2 @@
+ice_cream_rating =8
+print(ice_cream_rating)
